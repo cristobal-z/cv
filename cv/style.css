@@ -1,0 +1,89 @@
+/*header{
+    background-color: white;
+    padding: 3px;
+    margin: 1px;
+    outline: auto;
+    position: fixed;
+
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+
+    
+
+    
+    
+}*/
+
+
+footer{
+    background-color: rgb(30, 148, 148);
+    outline:  1px rgb(0, 4, 255) solid;
+}
+.body{
+    background-color: red;
+}
+.inicio{
+    outline:  1px rgb(0, 4, 255) solid;
+    display: inline-block;
+    padding: 3px;
+    width: 100px;
+    height: 100 px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+    
+   
+   
+}
+.hoy{
+    
+    outline:  1px rgb(0, 4, 255) solid;
+    padding: 3px;
+    display: inline-block;
+    
+}
+
+.finder{
+    outline:  1px rgb(0, 4, 255) solid;
+    padding: 3px;
+    display: inline-block;
+    width: 900px;
+    flex: center;
+    
+    padding: 3px;
+    margin: px;
+}
+.bus{
+    width: 900;
+}
+
+.logo{
+   
+    display: inline-block;
+    outline: auto;
+}
+
+.notifications{
+    outline:  1px rgb(0, 4, 255) solid;
+    display: inline-block;
+    float: right;
+    top: 16px;
+    
+    position: relative;
+    left: -70px;
+}
+.message{
+    outline:  1px rgb(0, 4, 255) solid;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+    top: 50px ;
+}
+.profile-img{
+    display: inline-block;
+    outline: auto;
+    float: right;
+}
+
